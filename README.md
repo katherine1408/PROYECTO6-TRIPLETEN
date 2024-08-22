@@ -12,3 +12,4 @@ Interfaz: Al iniciar la aplicación, los usuarios verán una descripción del pr
 "Mostrar histograma de kilometraje": Genera y muestra un histograma del kilometraje de los vehículos.
 "Mostrar gráfico de dispersión precio vs. kilometraje": Genera y muestra un gráfico de dispersión que compara el precio con el kilometraje.
 Este enfoque permite a los usuarios comprender rápidamente el propósito de la aplicación y utilizarla de manera efectiva para sus análisis.
+visualización proyecto : url render: https://proyecto6-tripleten-f5r5.onrender.com
